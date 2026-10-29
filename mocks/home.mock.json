@@ -1,0 +1,17 @@
+{
+  "searchSuccess": {
+    "success": "1",
+    "result": [
+      {
+        "id": 1,
+        "name": "HSBC Nifty 50 Index Mutual Fund",
+        "category": "Mutual Fund"
+      },
+      { "id": 2, "name": "HDFC Flexi Cap Fund", "category": "Mutual Fund" }
+    ]
+  },
+  "insuranceLeadSuccess": {
+    "success": "1",
+    "successMessage": "Lead created successfully"
+  }
+}
