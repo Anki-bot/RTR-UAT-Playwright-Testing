@@ -46,7 +46,7 @@ export default defineConfig({
     headless: false,
 
     // Save video only when a test fails
-    video: "retain-on-failure",
+    video: "on",
 
     // Capture screenshot and trace on failure for debugging
     trace: "retain-on-failure",
